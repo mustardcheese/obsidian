@@ -1,3 +1,4 @@
+
 ## Why do we want virtual memory?
 
 - Isolation
@@ -200,4 +201,6 @@ Virtual Address → TLB
 
 The TLB is what makes multi-level paging practical. Without it, every memory access would need 2+ extra accesses just for translation.
 
-![[powers_of_2.png]]
+---
+
+## ![[powers_of_2.png|650]]
