@@ -1,4 +1,4 @@
-We need schedulers when:
+:We need schedulers when:
 - There are multiple resource consumers
 - A scare set of resources are being shared
 

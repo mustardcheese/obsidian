@@ -55,51 +55,59 @@ Isolation is a scale with trade-offs
     - Every memory read/write is checked for privilege level
     - I/O Port access is privileged
         - Could overwrite inodes, cause corruption, etc.
-    - Control register acceses
+    - Control register accesses
 
-![image.png](attachment:b76c1e66-cda5-4ce5-bf16-a160c130f40f:image.png)
+![[Pasted image 20260310011936.png|500]]
 
-- The 2nd LSB indicates which table (global/local descriptor table)
-- Bottom 2 LSB tell the protection range: 3 = user 0 = kernel (ring numbers)
+- Bit 2 indicates which table (global/local descriptor table)
+- Bit 0,1 tell the protection range: 3 = user 0 = kernel (ring numbers)
 
-## Address Spaces (Segmentation, Virtual Memory, Paging)
+## Address Spaces
+- Goal is to isolate the memory in different locations
 
-- Isolate the memory
+### Segment Selection
+- The segment selector is a 16-bit value where the upper 13 bits are an index into a descriptor table (GDT, LDT), bit 2 = table indicator, bit 1:0 = privilege level
+- Descriptor tables no longer are used for memory as now paging is more effective
+- **Descriptor tables are only now used to determine privilege level based on protection level (ring number)**
 
-Interrupt handling is dealt with the interrupt descriptor table (IDT) containing the CS + eip to handler
+Interrupt handling is dealt with the interrupt descriptor table (IDT)
+- IDT entries (gate descriptors) contain a segment descriptor (CS) 
+- CPL is the 2 LSB of %cs (segment selector)
+- **Interrupt handler checks CPL in current %cs register**
 
-- CS descriptor is the 2 LSB of the segment descriptor of the segment table
-- Interrupt handler checks CPL in current %cs register
+We *need* to sanitize instructions because of the way memory and kernel access is set up.
 
-Unit of isolation are the processes
+***For the purpose of isolation the CPL are still used to check the privilege level.***
 
+### Granularity
+Splitting 'things' into processes
 - Prevent process X from wrecking or spying on process Y
 - Prevent the process from wrecking the OS itself
 - Isolated w/ bugs or malicious intent
 
-Virtual Memory Isolation
+tldr; different processes are seperate from eachother
 
-- Give every process a virtual space
-- Segmentation: Course grain, Paging: Fine grain
-
+### Virtual Memory (VMM)
+- Give every process it's virtual space
+- Handle conflicts using a paging unit
+- MMU turns VA -> PA
+- **Enforces privilege level at page granularity, finer than segmentation**
+![[Pasted image 20260310015546.png|400]]
 ## Time Slicing (CPU Isolation)
+CPU quantum to isolate access to CPU for processes
 
-- CPU quantum to isolate access to CPU for processes
-
-Idea: Abstract the CPU so each process percieves it’s own CPU
-
-Scheduler: provides access to resource X to consumer P at time T (give who, what, when)
-
-- Cooperative vs Preemptive (policy/how), yield vs. clock
+Idea: Abstract the CPU so each process perceives it’s own CPU
+Schedulers
+- Provides access to resource X to consumer P at time T (give who, what, when)
+- Cooperative vs Preemptive (how)
+	- yield vs. clock
 
 **We suspend and unsuspend reality for those things simultaneously, like they don’t know**
 
 ## System call interface (user vs kernel)
-
-- Safe transfer of control from user to kernel
+Safe transfer of control from user to kernel
 
 We switch between rings by with a protected protocol transfer
-
 - set cpl to zero
 - reset cpl to 3 before going back to user space
 
