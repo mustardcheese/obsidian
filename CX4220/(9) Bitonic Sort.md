@@ -1,5 +1,5 @@
 We can start with a few decent sequential sorting algorithms
-- Mergesort T(n,p) = ... (fill in) = $O(\frac{n}{p}logp ... (fill in))
+- Mergesort T(n,p) = ... (fill in) = $O(\frac{n}{p}logp ... (fill in))$
 
 Take one list and reverse the other, put the min of both lists into a min list, and the max of both lists into a max list
 

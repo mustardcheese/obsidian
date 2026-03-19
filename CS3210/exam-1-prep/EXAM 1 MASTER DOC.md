@@ -1,4 +1,3 @@
-# 1. x86 Boot Process
 
 ## Three-Stage Boot: BIOS → Bootloader → Kernel
 
