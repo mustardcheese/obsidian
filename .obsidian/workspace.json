@@ -8,105 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ee1e4c6524b3ab1",
+            "id": "4e3516d01f678bad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS3210/XV6 Specifics.md",
+                "file": "CX4220/(13) Dense Matrix Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XV6 Specifics"
+              "title": "(13) Dense Matrix Algorithms"
             }
           },
           {
-            "id": "067373907993c601",
+            "id": "ebe3c816de323339",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MFEM Crystal Router.md",
+                "file": "CX4220/(10) Sample Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MFEM Crystal Router"
+              "title": "(10) Sample Sort"
             }
           },
           {
-            "id": "7375f5bee2f651a5",
+            "id": "1802597e2846cedf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS3210/(03) Isolation.md",
+                "file": "CX4220/(11) Embeddings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(03) Isolation"
+              "title": "(11) Embeddings"
             }
           },
           {
-            "id": "b4a8e87026bc616c",
+            "id": "067b94cd687d3f18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS3210/(13) Networking.md",
+                "file": "CX4220/(09) Bitonic Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(13) Networking"
-            }
-          },
-          {
-            "id": "667787727f3b1c94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS3210/(02) x86 Basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(02) x86 Basics"
-            }
-          },
-          {
-            "id": "4106922f8ae3123d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS3210/Lab Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lab Notes"
-            }
-          },
-          {
-            "id": "98e7c07573b9d5c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MFEM Crystal Router.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MFEM Crystal Router"
+              "title": "(09) Bitonic Sort"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,20 +227,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "067373907993c601",
+  "active": "067b94cd687d3f18",
   "lastOpenFiles": [
+    "CX4220/(08) Communication Primatives.md",
+    "CX4220/(09) Bitonic Sort.md",
+    "CX4220/img/Pasted image 20260401142634.png",
+    "CX4220/img/Pasted image 20260401142324.png",
+    "CX4220/img/Pasted image 20260401142255.png",
+    "CX4220/img/Pasted image 20260401142243.png",
+    "CX4220/img/Pasted image 20260401142230.png",
+    "CX4220/img/Pasted image 20260401142218.png",
+    "CX4220/img/Pasted image 20260401142158.png",
+    "CX4220/img/Pasted image 20260401142146.png",
+    "CX4220/img/Pasted image 20260401142121.png",
+    "CX4220/img/Pasted image 20260401134651.png",
+    "CX4220/(10) Sample Sort.md",
+    "CX4220/(12) MPI III -- Communicators.md",
+    "CX4220/(13) Dense Matrix Algorithms.md",
+    "CX4220/(12) MPI III.md",
+    "CX4220/(11) Embeddings.md",
+    "CS3210/other/Lab 3 Notes.md",
     "MFEM Crystal Router.md",
-    "CS3210/img/Pasted image 20260309154015.png",
     "CS3210/Lab Notes.md",
     "CS3210/(02) x86 Basics.md",
     "CS3210/other/Lab 2 Notes.md",
     "CS3210/(13) Networking.md",
-    "CS3210/img/Pasted image 20260317144729.png",
-    "CS3210/img/Pasted image 20260317144514.png",
-    "CS3210/img/Pasted image 20260317144310.png",
-    "CS3210/img/Pasted image 20260317143029.png",
     "CS3210/(12) Security.md",
-    "CS3210/img/Pasted image 20260317141755.png",
     "CS3210/other",
     "CS3210/(03) Isolation.md",
     "CS3210/other/XV6 Specifics.md",
@@ -294,25 +264,13 @@
     "CS3210/exam 1 prep/EXAM PREP QUESTIONS.md",
     "CS3210/exam 1 prep",
     "CS3210/Lab 2 Notes.md",
-    "CX4220/(9) Bitonic Sort.md",
     "exam 1 prep",
-    "CX4220/(8) Communication Primatives.md",
     "CS3210/(11) User and Kernel Threading.md",
     "CS3210/(09) Schedulers.md",
     "CS3210/(08) Concurrency.md",
     "CS3210/(07) Swapping.md",
     "CS3210/EXAM 1 MASTER DOC.md",
-    "CS3210/(04) Kernel Organization.md",
-    "CX4220/(?) MPI III -- Communicators.md",
-    "CX4220/img/Pasted image 20260316101447.png",
-    "CX4220/img/Pasted image 20260316100259.png",
-    "CX4220/img/Pasted image 20260316095428.png",
-    "CX4220/img/Pasted image 20260316095136.png",
-    "CS3210/EXAM PREP QUESTIONS.md",
-    "CS3210/(10) Ordering, Waiting, Scheduling.md",
     "CS3210/CS3210-MASTER-CHEAT-SHEET.pdf",
-    "CS3210/(05) Virtual Memory.md",
-    "CS3210/(06) CoW.md",
     "CS3210/img",
     "Untitled.base",
     "CS 3510",
