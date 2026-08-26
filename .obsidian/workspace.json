@@ -8,20 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e178dd9d82c012b",
+            "id": "8ea8710a7ebda585",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS4641/(09) DBSCAN.md",
+                "file": "CS4641/(13) Naive Bayes and Logistic Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(09) DBSCAN"
+              "title": "(13) Naive Bayes and Logistic Regression"
+            }
+          },
+          {
+            "id": "5111bc63e0b44c74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS4641/(14) Neural Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(14) Neural Networks"
+            }
+          },
+          {
+            "id": "270d29e54f578611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS4641/(15) CNNs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(15) CNNs"
+            }
+          },
+          {
+            "id": "f57737036ff902e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS4641/hw/HW2 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HW2 Notes"
+            }
+          },
+          {
+            "id": "9bda8892f8504d01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS4641/hw/HW3 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HW3 Notes"
+            }
+          },
+          {
+            "id": "9804f0247f57f748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS4290/(01) Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(01) Intro"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -41,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,28 +257,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e178dd9d82c012b",
+  "active": "9804f0247f57f748",
   "lastOpenFiles": [
-    "CS4641/img/Pasted image 20260624212217.png",
+    "CS4290/img",
+    "CS3210/CS3210 Crib Sheet.md",
+    "CS4290/(01) Intro.md",
+    "CS4641/hw/HW3 Notes.md",
+    "CS4290",
+    "CS4641/hw/HW2 Notes.md",
+    "CS4641/(13) Naive Bayes and Logistic Regression.md",
     "CS4641/(12) Regularization.md",
+    "CS4641/(16) Decision Trees and Random Forest.md",
+    "CS4641/img/Pasted image 20260713095004.png",
+    "CS4641/(15) CNNs.md",
+    "CS4641/(14) Neural Networks.md",
     "CS4641/(11) Linear Regression.md",
-    "CS4641/(12) Regularized Linear Regression.md",
-    "CS4641/img/Pasted image 20260624111047.png",
-    "CS4641/img/Pasted image 20260624105722.png",
-    "CS4641/img/Pasted image 20260624105536.png",
-    "CS4641/img/Pasted image 20260624105511.png",
-    "CS4641/img/Pasted image 20260624105441.png",
-    "CS4641/img/Pasted image 20260624105440.png",
-    "CS4641/img/Pasted image 20260624105233.png",
-    "CS4641/img/Pasted image 20260624102557.png",
-    "CS4641/img/Pasted image 20260624102109.png",
-    "CS4641/img/Pasted image 20260624100621.png",
-    "CS4641/(08) Gaussian Mixture Model (GMM).md",
-    "CS4641/(10) Dimensionality Reduction.md",
-    "CS4641/(09) DBSCAN.md",
-    "CS4641/(05) Optimization.md",
     "CS4641/(07) Hierarchical Clustering.md",
     "CS4641/(06) Clustering & K-Means.md",
+    "CS4641/img/Pasted image 20260701101811.png",
+    "CS4641/img/Pasted image 20260701101608.png",
+    "CS4641/img/Pasted image 20260701100736.png",
+    "CS4641/img/Pasted image 20260701094805.png",
+    "CS4641/img/Pasted image 20260701094320.png",
+    "CS4641/img/Pasted image 20260629111430.png",
+    "CS4641/img/Pasted image 20260629111420.png",
+    "CS4641/img/Pasted image 20260629111411.png",
+    "CS4641/img/Pasted image 20260629110134.png",
+    "CS4641/hw",
+    "CS4641/(09) DBSCAN.md",
+    "CS4641/(12) Regularized Linear Regression.md",
+    "CS4641/(08) Gaussian Mixture Model (GMM).md",
+    "CS4641/(10) Dimensionality Reduction.md",
+    "CS4641/(05) Optimization.md",
     "CS4641/(04) Information Theory.md",
     "CS4641/(03) Probability and Statistics.md",
     "CS4641/(02) Linear Algebra Review.md",
@@ -216,22 +299,12 @@
     "CX4220/(10) Sample Sort.md",
     "CX4220/(11) Embeddings.md",
     "CS3210/(14) File Systems.md",
-    "CX4220/cx4220_claude_bitonic.md",
-    "CX4220/(09) Bitonic Sort.md",
-    "CX4220/(13) Dense Matrix Algorithms.md",
-    "CS3210/CS3210 Crib Sheet.md",
     "CS3210/Crib Sheet.md.tmp.65659.1777664107707",
     "CS3210/Crib Sheet.md.tmp.65659.1777664101539",
     "CS3210/Crib Sheet.synctex(busy)",
     "CS3210/pdflatex65023.fls",
     "CS3210/Crib Sheet.synctex.gz",
     "CS3210/Crib Sheet.pdf",
-    "CS3210/Crib Sheet.log",
-    "CS3210/Crib Sheet.fls",
-    "CS3210/(15) Ordering, Atomicity, and File Systems.md",
-    "CS3210/(07) Swapping.md",
-    "CS3210/(03) Isolation.md",
-    "CS3210/(02) x86 Basics.md",
     "CSE 6220/Untitled.canvas"
   ]
 }

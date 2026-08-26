@@ -1,0 +1,20 @@
+- [x] Audio Compression (25pts)
+- [x] Eigenfaces (20pts)
+- [ ] SVD Reccomender (2.1% extra credit)
+- [ ] Linear Regression and Regularization
+	- [x] Main Points (10pts)
+	- [x] Closed form LR (5pts)
+	- [x] GD (1.0% extra credit)
+	- [x] SGD (1.0% extra credit)
+	- [x] MBGD (1.0% extra credit)
+	- [x] Ridge Regression
+		- [x] Closed Form (5pts)
+		- [x] GD Ridge Regression (1.0% extra credit)
+		- [x] SGD Ridge Regression (1.0% extra credit)
+		- [x] MBGD Ridge Regression (1.0% extra credit)
+	- [ ] **Written Question**i
+- [x] Naive Bayes and Logistic Regression (40pts)
+	- [ ] **Written Question**
+	- [x] News Data Sentiment Classification via Logistic Regression (30pts)
+- [x] Feature Selection (20pts)
+- [ ] Imbalanced Classes in Classification Tasks (5.6% extra credit)

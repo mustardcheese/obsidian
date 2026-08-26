@@ -143,6 +143,7 @@ Running a prediction on real number:
 ![[Pasted image 20260624105536.png|500]]
 - This is a perfect model, the MSE is zero
 
+## Overfitting
 Try using different degrees of freedom to our regression model, compared to the green ground truth.
 ![[Pasted image 20260624105722.png|500]]
 - D=0 has high bias and is underfitted -- bad for training and real data
