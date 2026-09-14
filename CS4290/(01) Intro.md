@@ -64,3 +64,5 @@ Execution time using ehnacement t when possible
 
 $\text{Execution Time}_{new} = \text{Execution time}_{old} \times (1-\text{Fraction}_{enhanced} + \frac{\text{Fraction}_{enhanced}}{\text{Speedup}_{enhanced}})$
 
+make the common case fast
+Principle of Locality: 90% of the time is spent in 10% of the code
