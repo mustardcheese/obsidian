@@ -83,6 +83,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "EAS2750/(03) Weather Maps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(03) Weather Maps"
+            }
+          },
+          {
+            "id": "e96acaef6ed3729c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS4290/(04) Dependencies and ILP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(04) Dependencies and ILP"
+            }
+          },
+          {
+            "id": "3a7ed90fd2df3d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "LMC4803/MA1 Draft Personal Brand + Jobs.md",
                 "mode": "source",
                 "source": false
@@ -90,9 +118,65 @@
               "icon": "lucide-file",
               "title": "MA1 Draft Personal Brand + Jobs"
             }
+          },
+          {
+            "id": "f4ea859d7c77a75c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LMC4803/09-14 Video Draft Feedback.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09-14 Video Draft Feedback"
+            }
+          },
+          {
+            "id": "2024e4b4c35284d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mfem_notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mfem_notes"
+            }
+          },
+          {
+            "id": "0e809f79663f062f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAS2750/(05) Tropical Cyclones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(05) Tropical Cyclones"
+            }
+          },
+          {
+            "id": "b2c73d4e0c9affde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAS2750/(06) Seasons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(06) Seasons"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -257,30 +341,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4b2728545a97b52",
+  "active": "b2c73d4e0c9affde",
   "lastOpenFiles": [
-    "LMC4803/09-02 MA1 Job Posting + Summaries.md",
+    "EAS2750/(05) Tropical Cyclones.md",
+    "EAS2750/(06) Seasons.md",
+    "EAS2750/(03) Weather Maps.md",
+    "Apple Interview Checklist.md",
+    "mfem_notes.md",
+    "LMC4803/09-16 Video Feedback.md",
+    "LMC4803/09-14 Video Draft Feedback.md",
+    "EAS2750/img/Pasted image 20260916104428.png",
+    "EAS2750/img/Pasted image 20260916104203.png",
+    "EAS2750/img/Pasted image 20260916103814.png",
+    "EAS2750/img/Pasted image 20260916103438.png",
+    "EAS2750/img/Pasted image 20260916103301.png",
     "LMC4803/MA1 Draft Personal Brand + Jobs.md",
+    "CS4290/(05) Dynamic Instruction Scheduling.md",
+    "CS4290/(04) Dependencies and ILP.md",
+    "CS4290/img/Pasted image 20260914161647.png",
+    "CS4290/img/Pasted image 20260914161404.png",
+    "CS4290/img/Pasted image 20260914160842.png",
+    "CS4290/img/Pasted image 20260914160826.png",
+    "CS4290/img/Pasted image 20260914155536.png",
+    "LMC4803/09-02 MA1 Job Posting + Summaries.md",
     "LMC4803/09-09  MA1 Feedback Chart.md",
     "LMC4803/09-02 Journal 2.md",
-    "CS4290/(04) Dependencies and ILP.md",
-    "CS4290/img/Pasted image 20260909163141.png",
     "CS4290/(03) Branch Prediction.md",
-    "CS4290/img/Pasted image 20260909155025.png",
     "LMC4803/08-31 Activity.md",
-    "CS4290/img/Pasted image 20260902162903.png",
-    "CS4290/img/Pasted image 20260902161716.png",
-    "CS4290/img/Pasted image 20260902160629.png",
-    "CS4290/img/Pasted image 20260902154221.png",
-    "CS4290/img/Pasted image 20260902154128.png",
-    "CS4290/img/Pasted image 20260902153831.png",
     "CS4290/(02) Pipeline Review.md",
-    "EAS2750/(03) Weather Maps.md",
-    "EAS2750/img/Pasted image 20260902095540.png",
-    "EAS2750/img/Pasted image 20260902095531.png",
     "LMC4803/08-27.md",
     "EAS2750/(02) Basic State Variables.md",
-    "mfem_notes.md",
     "CS4641/hw/HW3 Notes.md",
     "CS4641/hw/HW2 Notes.md",
     "CS4641/(15) CNNs.md",
@@ -295,13 +385,7 @@
     "CS3210/CS3210 Crib Sheet.md",
     "CS4290",
     "CS4641/(12) Regularization.md",
-    "CS4641/(16) Decision Trees and Random Forest.md",
-    "CS4641/(11) Linear Regression.md",
-    "CS4641/(07) Hierarchical Clustering.md",
-    "CS4641/(06) Clustering & K-Means.md",
     "CS4641/hw",
-    "CS4641/(09) DBSCAN.md",
-    "CS4641/(12) Regularized Linear Regression.md",
     "CS4641/img",
     "CS4641",
     "CS3210/Crib Sheet.md.tmp.65659.1777664107707",
