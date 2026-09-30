@@ -8,133 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1276317af6f120f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LMC4803/08-31 Activity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08-31 Activity"
-            }
-          },
-          {
-            "id": "bc87fea3494392c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LMC4803/09-02 Journal 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09-02 Journal 2"
-            }
-          },
-          {
-            "id": "ef911ff3107573f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS4290/(03) Branch Prediction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(03) Branch Prediction"
-            }
-          },
-          {
-            "id": "50e4e7c03a1096b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LMC4803/09-02 MA1 Job Posting + Summaries.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09-02 MA1 Job Posting + Summaries"
-            }
-          },
-          {
-            "id": "a8a7055b7bad4c42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LMC4803/09-02 MA1 Job Posting + Summaries.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09-02 MA1 Job Posting + Summaries"
-            }
-          },
-          {
-            "id": "d4b2728545a97b52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAS2750/(03) Weather Maps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(03) Weather Maps"
-            }
-          },
-          {
-            "id": "e96acaef6ed3729c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS4290/(04) Dependencies and ILP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(04) Dependencies and ILP"
-            }
-          },
-          {
-            "id": "3a7ed90fd2df3d7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LMC4803/MA1 Draft Personal Brand + Jobs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MA1 Draft Personal Brand + Jobs"
-            }
-          },
-          {
-            "id": "f4ea859d7c77a75c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LMC4803/09-14 Video Draft Feedback.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09-14 Video Draft Feedback"
-            }
-          },
-          {
-            "id": "2024e4b4c35284d7",
+            "id": "47038b5ec6aa3d2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,35 +22,21 @@
             }
           },
           {
-            "id": "0e809f79663f062f",
+            "id": "764dea858a333ea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAS2750/(05) Tropical Cyclones.md",
+                "file": "Project Ideas (Claude).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(05) Tropical Cyclones"
-            }
-          },
-          {
-            "id": "b2c73d4e0c9affde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAS2750/(06) Seasons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(06) Seasons"
+              "title": "Project Ideas (Claude)"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -341,13 +201,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2c73d4e0c9affde",
+  "active": "764dea858a333ea2",
   "lastOpenFiles": [
+    "mfem_notes.md",
+    "Project Ideas (Claude).md",
+    "citadel_sauce.md",
+    "LMC4803/MA1 Draft Personal Brand + Jobs.md",
+    "Apple Interview Checklist.md",
+    "EAS2750/(07) Energy and Radiative Laws.md",
     "EAS2750/(05) Tropical Cyclones.md",
     "EAS2750/(06) Seasons.md",
     "EAS2750/(03) Weather Maps.md",
-    "Apple Interview Checklist.md",
-    "mfem_notes.md",
+    "LMC4803/08-31 Activity.md",
+    "EAS2750/img/Pasted image 20260923100836.png",
     "LMC4803/09-16 Video Feedback.md",
     "LMC4803/09-14 Video Draft Feedback.md",
     "EAS2750/img/Pasted image 20260916104428.png",
@@ -355,19 +221,16 @@
     "EAS2750/img/Pasted image 20260916103814.png",
     "EAS2750/img/Pasted image 20260916103438.png",
     "EAS2750/img/Pasted image 20260916103301.png",
-    "LMC4803/MA1 Draft Personal Brand + Jobs.md",
     "CS4290/(05) Dynamic Instruction Scheduling.md",
     "CS4290/(04) Dependencies and ILP.md",
     "CS4290/img/Pasted image 20260914161647.png",
     "CS4290/img/Pasted image 20260914161404.png",
     "CS4290/img/Pasted image 20260914160842.png",
     "CS4290/img/Pasted image 20260914160826.png",
-    "CS4290/img/Pasted image 20260914155536.png",
     "LMC4803/09-02 MA1 Job Posting + Summaries.md",
     "LMC4803/09-09  MA1 Feedback Chart.md",
     "LMC4803/09-02 Journal 2.md",
     "CS4290/(03) Branch Prediction.md",
-    "LMC4803/08-31 Activity.md",
     "CS4290/(02) Pipeline Review.md",
     "LMC4803/08-27.md",
     "EAS2750/(02) Basic State Variables.md",
@@ -380,11 +243,8 @@
     "EAS2750/img",
     "EAS2750",
     "LMC4803",
-    "CS4290/(01) Intro.md",
     "CS4290/img",
-    "CS3210/CS3210 Crib Sheet.md",
     "CS4290",
-    "CS4641/(12) Regularization.md",
     "CS4641/hw",
     "CS4641/img",
     "CS4641",

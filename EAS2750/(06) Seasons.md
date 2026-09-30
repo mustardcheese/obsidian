@@ -15,3 +15,5 @@ Around the poles, the radiation is more angled, meaning is passes through more a
 $S = S_0\ sin(q)$
 $S_0 = 1361 Wm^{-2}$
 $q = (90-lattitude)+solar\ declanation$
+
+**fill in later**
