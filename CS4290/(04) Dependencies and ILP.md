@@ -138,5 +138,3 @@ WAW can be removed by changing R2 in I5 to *T*
 How can we implement register renaming?
 
 The simple solution is to do renaming for every instruction. We can change the name of a register each time we decode an instruction that will write to it and remember the name we gave to it.
-
-## Dynamic (out of order) Scheduling

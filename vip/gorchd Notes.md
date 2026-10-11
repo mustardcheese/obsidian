@@ -29,7 +29,7 @@ Intercepts the LD_PRELOAD to check for memory usage, **only dynamically linked**
 - gorchd then exits from program
 For SM processor usage, gpu_fairshare_shim simply sleeps until quota is unfilled
 
-This only works for dynamically linked programs. Statically linked uses a different libraries unable to be intercepted by gpu_fairshare_shim
+This only works for dynamically linked program1s. Statically linked uses a different libraries unable to be intercepted by gpu_fairshare_shim
 
 **Preventative:**
 gpu_fairshare_shim (on dynamic) -> cudaErrorMemoryAllocation

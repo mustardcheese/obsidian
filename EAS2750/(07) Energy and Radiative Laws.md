@@ -38,8 +38,8 @@ When we assume an object is a blackbody the following laws can be applied:
 Warmer objects radiate far more total energy per  unit area than colder objects
 
 $F = \sigma T^4$
-* F = Irradiance of "flux" ($\frac{W}{m^{-2}}$ or $\frac{J}{s}$)
-* $\sigma$ = Stefan-Boltzmann constant = $5.67\cdot10^{-8}$ ($\frac{W}{m^{-2}} K^{-4}$)
+* F = Irradiance of "flux" ($Wm^{-2}$ or $\frac{J}{s}$)
+* $\sigma$ = Stefan-Boltzmann constant = $5.67\cdot10^{-8}$ ($Wm^{-2} K^{-4}$)
 * T = temperature (K)
 
 
@@ -124,3 +124,7 @@ Rainbows must be back scattered from the sun, and with enough raindrops the whit
 
 
 ### Greenhouse Effects
+The average surface temperature is warmer with an atmosphere due to the greenhouse effect
+
+Work on our assumption that shortwave passes through the atmosphere, and the earth + atmosphere are blackbodies our estimate is too high (86F)
+	The actual surface temperature is around 59F
