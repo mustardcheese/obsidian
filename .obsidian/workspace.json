@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "764dea858a333ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS4290/(05) Dynamic Instruction Scheduling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(05) Dynamic Instruction Scheduling"
-            }
-          },
-          {
             "id": "60958f4f956b6dd3",
             "type": "leaf",
             "state": {
@@ -50,49 +36,21 @@
             }
           },
           {
-            "id": "26764c40f4949ab2",
+            "id": "eb57b4bf9fcc0d78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LMC4803/10-07 Heuristic.md",
+                "file": "CS4290/(07) Interrupts, Exceptions, and Memory Dependencies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-07 Heuristic"
+              "title": "(07) Interrupts, Exceptions, and Memory Dependencies"
             }
           },
           {
-            "id": "3d41aa5200003451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gorchd Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gorchd Notes"
-            }
-          },
-          {
-            "id": "7f0618072d63fafd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS4290/(05) Dynamic Instruction Scheduling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(05) Dynamic Instruction Scheduling"
-            }
-          },
-          {
-            "id": "a8d680f5dc8eff71",
+            "id": "636b67a47b57bf1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -271,54 +229,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c11679433e9f1fb",
+  "active": "636b67a47b57bf1a",
   "lastOpenFiles": [
-    "CS4290/img/Pasted image 20261010212350.png",
-    "CS4290/(05) Dynamic Instruction Scheduling.md",
+    "Spellcheck Candidates.md",
+    "Spellcheck candidates.md",
+    "JUMP.md",
+    "mfem notes.md",
+    "EAS2750/(08) Water.md",
+    "(080.md",
+    "CS4290/(08) Compiler ILP.md",
+    "LMC4803/Heuristic Evaluation Draft.md",
+    "CS4290/Command Cheat Sheet.md",
+    "CS4290/(07) Interrupts, Exceptions, and Memory Dependencies.md",
     "CS4290/(06) Reorder Buffer (ROB).md",
+    "CS4290/(05) Dynamic Instruction Scheduling.md",
     "CS4290/(04) Dependencies and ILP.md",
     "CS4290/(03) Branch Prediction.md",
     "CS4290/(02) Pipeline Review.md",
-    "CS4290/img/Pasted image 20261010193612.png",
-    "CS4290/img/Pasted image 20261010145638.png",
-    "CS4290/Command Cheat Sheet.md",
-    "Interviews/Project Ideas (Claude).md",
-    "vip/gorchd Notes.md",
-    "vip/img/Pasted image 20260929235701.png",
+    "CS4290/(01) Intro.md",
+    "CS4290/img/Pasted image 20261012142522.png",
+    "CS4290/img/Pasted image 20261012142209.png",
+    "CS4290/img/Pasted image 20261012142147.png",
+    "CS4290/img/Pasted image 20261012142145.png",
+    "CS4290/img/Pasted image 20261012142046.png",
+    "CS4290/img/Pasted image 20261012141951.png",
+    "CS4290/img/Pasted image 20261012141934.png",
+    "CS4290/img/Pasted image 20261012141924.png",
+    "CS4290/img/Pasted image 20261012121547.png",
+    "CS4290/img/Pasted image 20261012121440.png",
+    "CS4290/ricky_notes/05 Reorder Buffer and Precise Exceptions.md",
+    "CS4290/ricky_notes/07 Background - Pipelining, ILP and Renaming.md",
+    "CS4290/ricky_notes/06 TLBs and Caches.md",
+    "CS4290/ricky_notes/00 Index - CS6290 Midterm.md",
+    "CS4290/ricky_notes/02 Iron Law and CPU Performance.md",
+    "CS4290/ricky_notes/03 Branch Prediction.md",
+    "CS4290/ricky_notes/04 Tomasulo's Algorithm.md",
+    "CS4290/ricky_notes/01 Performance Metrics and Amdahl's Law.md",
+    "CS4290/ricky_notes/attachments",
+    "CS4290/ricky_notes/CS6290 Midterm/attachments",
+    "CS4290/ricky_notes/CS6290 Midterm/07 Background - Pipelining, ILP and Renaming.md",
+    "CS4290/ricky_notes/CS6290 Midterm/06 TLBs and Caches.md",
+    "CS4290/ricky_notes/CS6290 Midterm",
+    "CS4290/ricky_notes/CS6290-Midterm-Obsidian-Notes (1).zip",
+    "CS4290/ricky_notes",
     "vip",
-    "vip/img/Pasted image 20260930003608.png",
-    "Interviews/Jump.md",
     "Interviews",
-    "CS4290/img/Pasted image 20261008201249.png",
-    "CS4290/img/Pasted image 20261008200821.png",
-    "CS4290/img/Pasted image 20261008200614.png",
-    "LMC4803/Heuristic Evaluation Draft.md",
-    "LMC4803/img/Pasted image 20261008181107.png",
-    "LMC4803/img/Pasted image 20261008180515.png",
-    "LMC4803/img/Pasted image 20261008180023.png",
     "LMC4803/img",
-    "LMC4803/08-31 Activity.md",
-    "EAS2750/(08) Water.md",
-    "EAS2750/(07) Energy and Radiative Laws.md",
-    "EAS2750/(03) Weather Maps.md",
-    "mfem notes.md",
-    "LMC4803/09-14 Video Draft Feedback.md",
-    "LMC4803/09-16 Video Feedback.md",
     "vip/img",
-    "mfem_notes.md",
-    "citadel_sauce.md",
-    "LMC4803/MA1 Draft Personal Brand + Jobs.md",
-    "Apple Interview Checklist.md",
-    "EAS2750/(05) Tropical Cyclones.md",
-    "EAS2750/(06) Seasons.md",
-    "LMC4803/09-02 MA1 Job Posting + Summaries.md",
-    "LMC4803/09-09  MA1 Feedback Chart.md",
     "EAS2750/img",
-    "EAS2750",
-    "LMC4803",
-    "CS4290/img",
-    "CS4290",
-    "CS4641/hw",
     "CSE 6220/Untitled.canvas"
   ]
 }
